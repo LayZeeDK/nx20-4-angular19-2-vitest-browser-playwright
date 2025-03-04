@@ -43,6 +43,7 @@
     "@swc/core": "~1.5.7",
     "@swc/helpers": "~0.5.11",
     "@typescript-eslint/utils": "^8.19.0",
+    "@vitest/browser": "1.6.1",
     "@vitest/coverage-v8": "1.6.1",
     "@vitest/ui": "1.6.1",
     "angular-eslint": "^19.0.2",
