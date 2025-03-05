@@ -14,7 +14,17 @@ Run unit tests using the following command.
 npm test
 ```
 
+### Watch mode
+
+Run unit tests in watch mode using the following command.
+
+```shell
+npm run test:watch
+```
+
 ## Issues
+
+When using the `test` task:
 
 1. The Vitest UI web app doesn't connect
 1. The Vitest Browser is closed once the tests have run

@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "test": "nx test angular-app"
+    "test": "nx test angular-app",
+    "test:watch": "vitest --ui --watch"
   },
   "private": true,
   "dependencies": {
